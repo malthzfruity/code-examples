@@ -48,6 +48,5 @@ fetch("https://api.imgflip.com/get_memes")
     })
 }*/
 
-fetch("https://api.nationalize.io/?name=henning")
 
 //https://cors-anywhere.herokuapp.com/
